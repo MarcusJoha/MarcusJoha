@@ -7,7 +7,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MarcusJoha&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusJoha&hide=Jupyter Notebook&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusJoha&hide=Jupyter+Notebook&theme=tokyonight)
 
 
 ## Connect with me
