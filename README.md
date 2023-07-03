@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/marcus-johannessen-426a2391/
 
+---
+
 [Checkout my Portfolio](https://portfolio-marcusjoha.vercel.app/)
 
 
