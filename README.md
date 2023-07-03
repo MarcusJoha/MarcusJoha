@@ -12,7 +12,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <!--
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/marcus-johannessen-426a2391/
+[Checkout my Portfolio]: (https://portfolio-marcusjoha.vercel.app/)
+
+
